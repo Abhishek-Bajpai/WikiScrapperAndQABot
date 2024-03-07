@@ -1,0 +1,112 @@
+ALGOL
+ALGOL 68
+APL (programming language)
+ATmega
+Ada (programming language)
+AlexNet
+AlphaGo
+Analyse-it
+Andrew Ng
+Apple M1
+Auto-GPT
+Automation
+BASIC
+BMDP
+Beerware
+Biopython
+Boo (programming language)
+C++17
+CLU (programming language)
+COBOL
+ChatGPT
+Cinema 4D
+Computer vision
+DALL-E
+Data Desk
+Device driver
+Documentation
+EViews
+Embarrassingly parallel
+Esri
+F Sharp (programming language)
+Factorial
+FastAPI
+Fellow
+Foreach
+Fork (software development)
+Forth (programming language)
+Functional programming
+GIMP
+GNU Octave
+GPT-1
+GPT-2
+GPT-3
+GPT-4
+GPT-J
+GTK
+Genie (programming language)
+GitHub
+Google
+Graphcore
+Huawei
+Hugging Face
+IBM Watsonx
+IDLE
+IEEE 754
+JASP
+Java (programming language)
+Jython
+LibreOffice
+Linux
+Lua (programming language)
+ML (programming language)
+MacOS
+Machine learning
+Mathcad
+Meta AI
+Microcontroller
+Microfit
+Midjourney
+Modula-3
+MuZero
+Multilayer perceptron
+Musical notation
+Nokia
+Null pointer
+Numba
+OS/2
+Objective-C
+OpenBSD
+OpenFOAM
+OpenVMS
+PSPP
+PaLM
+Pdoc
+Pointer (computer programming)
+Printf format string
+Project Jupyter
+Psyco
+RATS (software)
+RStudio
+Raspberry Pi
+Rational number
+Reddit
+SETL
+SHAZAM (software)
+SPSS
+SQL
+SciPy
+Scilab
+Scribus
+Shell script
+Tail call
+Tcl
+TensorFlow
+Test suite
+The C Programming Language
+Unlicense
+VHDL
+Virtual machine
+WTFPL
+Wolfram Mathematica
+Zope
